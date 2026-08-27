@@ -1,13 +1,20 @@
 # Trabajo Práctico 1 – U1 (POO y TAD en Java)
 
-### **Identificación del Grupo:** `g_t[q,r,s]##` *(Completar con sección y número)*
+### **Identificación del Grupo:** g_t[q]  "Grupo 24" ## 
 
-### **Integrantes (Apellido, Nombre, CIC, Sección):**
-* [Apellido], [Nombre], [CIC], [Sección]
-* [Apellido], [Nombre], [CIC], [Sección]
+### **Integrantes:**
+* Lopez Guerreros, Sebastian Alejandro, 6153672, TQ
+* Oviedo Fernandez, Blas Oviedo, 7037075, TQ
 
 ## Declaración de Honor
-*Declaramos bajo honor haber realizado este trabajo con honestidad académica, siguiendo las reglas establecidas en la primera clase de la materia, sin incurrir en copias ni apropiación de código de terceros no autorizados.*
+• Nostros Sebastian Lopez y Blas Oviedo:
+• No hemos discutido el código fuente de nuestra tarea con ningún otro
+grupo, solo con el Profesor o el AER.
+• No hemos usado código obtenido de otro estudiante o de cualquier otra
+fuente no autorizada, modificada o no modificada.
+• Cualquier código o documentación utilizada en nuestro programa
+obtenido de fuentes, tales como libros o notas de curso, han sido claramente
+indicada en nuestra tarea.
 
 
 
